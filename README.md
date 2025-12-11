@@ -7,7 +7,7 @@ This project demonstrates proficiency in **React + TypeScript**, modular archite
 
 🚀 **Live Demo**
 
-[DevDocs](https://devdocs.vercel.app/)
+[DevDocs](https://devdocs-omega.vercel.app/)
 
 
 🖼️ **Screenshots**
