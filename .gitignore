@@ -1,6 +1,6 @@
 .env
 server/.gitignore
-server/config/firebaseServiceAccount.json
+
 # Logs
 logs
 *.log
